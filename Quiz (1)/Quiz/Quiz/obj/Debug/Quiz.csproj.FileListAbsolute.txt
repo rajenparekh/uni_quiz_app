@@ -1,0 +1,11 @@
+C:\Users\jamie\Desktop\Coursework\Quiz\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+C:\Users\jamie\Desktop\Coursework\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\jamie\Desktop\Coursework\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\jamie\Desktop\Coursework\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\jamie\Desktop\Coursework\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\jamie\Desktop\Coursework\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\jamie\Desktop\Coursework\Quiz\Quiz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jamie\Desktop\Coursework\Quiz\Quiz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jamie\Desktop\Coursework\Quiz\Quiz\obj\Debug\Quiz.csproj.CopyComplete
+C:\Users\jamie\Desktop\Coursework\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\jamie\Desktop\Coursework\Quiz\Quiz\obj\Debug\Quiz.pdb
